@@ -1,1 +1,26 @@
+<style>@import url("//readme.codeadam.ca/readme.css");</style>
 
+## Samuel Roy Jojo
+
+![Samuel Roy Jojo](images/sam271102.jpg)
+
+
+
+I am a full stack web developer who loves to write code and learn new things about technology.
+ 
+LinkedIn: [Samuel Roy](https://www.linkedin.com/in/samuel-roy-8551082b3/)  
+GitHub: [Sam-271102](https://github.com/Sam-271102)  
+
+### Projects
+
+| Project | |
+| - | - |
+| Tasks | [https://tasks.brickmmo.com/](https://tasks.brickmmo.com/) |
+
+[&#10132; Back to Class List](/)
+
+---
+
+<a href="https://brickmmo.com">
+<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
+</a>
