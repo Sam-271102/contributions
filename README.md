@@ -1,5 +1,5 @@
 # Contributions
-
+#Samuel
 A history of students who have contributed to the [BrickMMO](http://brickmmo.com/) project.
 
 Files are organized using the following folder and file structure:
